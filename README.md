@@ -42,4 +42,4 @@ Waardepapierenregisters is vrijgegeven onder de EUPL 1.2 licentie. Voor meer inf
 
 ## Contact
 
-Voor meer informatie over Waardepapierenregisters en hoe het uw organisatie kan helpen bij het beheren van digitale waardepapieren, neem contact met ons op via info@conduction.nl.
+Voor meer informatie over Waardepapierenregisters en hoe het uw organisatie kan helpen bij het beheren van digitale waardepapieren, neem contact met ons op via <info@conduction.nl>.
