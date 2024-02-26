@@ -18,12 +18,12 @@ jobs:
         uses: OpenCatalogi/productpage-action@latest
         with:
           github_repository_name_as_prefix: false
-          github_repository_url: https://github.com/MWest2020/WaardepapierenRegister
-          github_api_base_url: https://api.github.com/repos/MWest2020/WaardepapierenRegister/contents
-          navbar_content: 'https://raw.githubusercontent.com/MWest2020/WaardepapierenRegister/master/docs/NavbarContent.json'
+          github_repository_url: https://github.com/CommonGateway/WaardepapierenRegister
+          github_api_base_url: https://api.github.com/repos/CommonGateway/WaardepapierenRegister/contents
+          navbar_content: 'https://raw.githubusercontent.com/CommonGateway/WaardepapierenRegister/master/docs/NavbarContent.json'
           footer_show_logo: true
           footer_logo_href: "https://conduction.nl/"
-          footer_content: 'https://raw.githubusercontent.com/MWest2020/WaardepapierenRegister/master/docs/FooterContent.json'
+          footer_content: 'https://raw.githubusercontent.com/CommonGateway/WaardepapierenRegister/master/docs/FooterContent.json'
           footer_content_header: "heading-3"
           jumbotron_title: "WaardepapierenRegister"
           jumbotron_subtitle: "Registratie en tracking van digitale waardepapieren"
