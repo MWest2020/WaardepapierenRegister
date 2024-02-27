@@ -18,7 +18,7 @@ Ja, het Waardepapierenregister is ontworpen om naadloos te integreren met bestaa
 
 ## 5 Indien een toepassing, pitch je product
 
-De Waardepapieren Microservice biedt een uitgelezen kans voor overheden om hun dienstverlening te moderniseren, door het proces van het aanvragen en verstrekken van documenten zoals uittreksels efficiënter te maken. De service haakt in op notificaties vanuit het zaaksysteem om geautomatiseerd documenten te creëren die zijn voorzien van een QR-code. Via de scan-app kan vervolgens door iedereen gecontroleerd worden of de code en het daaronder liggende document geldig is.
+Waardepapierenregister faciliteert de naadloze integratie met bestaande systemen en biedt een robuuste oplossing voor het beheren van digitale waardepapieren. Door de implementatie van geavanceerde technologieën voor registratie en tracking, garandeert het platform de integriteit en authenticiteit van elk digitaal document.
 
 ## 6 In welk domein past het initiatief?
 
@@ -73,7 +73,7 @@ Ruben van der Linde
 
 ## 17 Wat is een korte omschrijving van het product?
 
-Het veilig, vertrouwd en snel verstrekken van digitale uittreksels en bewijsstukken
+Registreren, volgen en intrekken van digitale gewaarmeerkte documenten
 
 ## 18 Hoeverre draagt het initiatief volgens jou bij aan de wendbaarheid van gemeenten?
 
