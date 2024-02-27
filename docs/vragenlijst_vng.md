@@ -47,7 +47,7 @@ Conduction B.V, Yard, Acato, Sim Groep, Xxllnc
 
 01-06-2023
 
-## 12 Wanneer wordt verwacht dat het initiatief ready for use is? Of sinds wanneer is het initiatief ready for use? (Let er op dat dit na de startdatum is)
+## 12 Wanneer wordt verwacht dat het initiatief ready for use is? Of sinds wanneer is het initiatief ready for use?
 
 01-11-2023
 
@@ -67,7 +67,7 @@ Ruben van der Linde
 
 <ruben@conduction.nl>
 
-## 16 Op welke website kunnen we meer info over het product vinden? (Kan ook link naar groepspagina op commongroundnl zijn)
+## 16 Op welke website kunnen we meer info over het product vinden?
 
 [https://waardepapieren.openregisters.app/](https://waardepapieren.openregisters.app/)
 
