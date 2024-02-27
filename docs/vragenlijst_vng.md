@@ -18,7 +18,7 @@ Ja, het Waardepapierenregister is ontworpen om naadloos te integreren met bestaa
 
 ## 5 Indien een toepassing, pitch je product
 
-"Het Waardepapierenregister, gebaseerd op OpenRegisters, transformeert het beheer van waardepapieren door een snelle, efficiënte en transparante oplossing te bieden. Ideaal voor overheidsinstanties die hun dienstverlening willen optimaliseren en de toegankelijkheid van waardepapieren voor burgers willen verbeteren."
+De Waardepapieren Microservice biedt een uitgelezen kans voor overheden om hun dienstverlening te moderniseren, door het proces van het aanvragen en verstrekken van documenten zoals uittreksels efficiënter te maken. De service haakt in op notificaties vanuit het zaaksysteem om geautomatiseerd documenten te creëren die zijn voorzien van een QR-code. Via de scan-app kan vervolgens door iedereen gecontroleerd worden of de code en het daaronder liggende document geldig is.
 
 ## 6 In welk domein past het initiatief?
 
@@ -73,7 +73,7 @@ Ruben van der Linde
 
 ## 17 Wat is een korte omschrijving van het product?
 
-Registreren, volging en intrekken van digitale waardepapieren
+Het veilig, vertrouwd en snel verstrekken van digitale uittreksels en bewijsstukken
 
 ## 18 Hoeverre draagt het initiatief volgens jou bij aan de wendbaarheid van gemeenten?
 
@@ -97,7 +97,7 @@ Waardepapierenregister draagt bij aan een betere dienstverlening van gemeenten d
 
 ## 23 Geef een korte toelichting op jouw antwoord bij de vorige vraag
 
-Hoewel Waaardepapierenregister niet direct bijdraagt aan de regie op gegevens voor inwoners, draagt het indirect bij door het beheer van waardepapieren te verbeteren, waardoor inwoners gemakkelijker toegang krijgen tot hun waardepapieren.
+Hoewel Waardepapierenregister niet direct bijdraagt aan de regie op gegevens voor inwoners, draagt het indirect bij door het beheer van waardepapieren te verbeteren, waardoor inwoners gemakkelijker toegang krijgen tot hun waardepapieren.
 
 ## 24 Waar staat informatie over de planning? Voeg indien mogelijk de link toe
 
